@@ -13,7 +13,7 @@ requires-python = ">=3.12"
 python = ">=3.12"
 anndata = ">=0.12.6,<0.13.0"
 pandas = ">=2.3.3,<3.0.0"
-numpy = ">=2.3.5,<3.0.0"
+numpy = ">=1.26.0,<3.0.0"
 datalair = { git = "https://github.com/LuJoHae/datalair.git"}
 mygene = "^3.2.2"
 
